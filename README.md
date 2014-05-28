@@ -6,6 +6,8 @@ Az alkalmazás alkalmas az Új Egyenlítő újság cikkeinek olvasására, valam
 Az alkalmazásnak tudnia kell listázni az összes cikket, valamint a letöltött cikkeket is. A felhasználónak legyen lehetősége a letöltött cikkek törlésére. Ha egy cikk már le van töltve, akkor az ne töltse le mégegyszer, hanem nyissa meg.
 Amennyiben nincs internet kapcsolat, az alkalmazás jelezze a felhasználónak, és induláskor a lokális cikkeket jelenítse meg.
 
+Legyenek gombok, amik az újság weblapjára, Facebook oldalára, blog oldalára mutatnak, valamint azonnali e-mail küldési lehetőség. Újság olvasása közben legyen lehetőség az aktuális cikk megosztására Facebookon. A poszt tartalmazza az újság borítójának képét, valamint a link az újság PDF fokumentumára mutasson.
+
 Az Új Egyenlítő Mag című lapon szerepelnie kell az újság támogatóinak, valamit ezektől függetlenül a legújabb eseményeknek. Minden esemény egy címet, szöveget és egy linket tartalmaz. Opcionális mellé egy darab kép és/vagy videó megjelenítése.
 
 Az alkalmazás design-jának passzolnia kell az újsághoz. Legyen felhasználó barát, könnyen kezelhető, jól átlátható. Használja ki a platform egyedi tulajdonságait.
