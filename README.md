@@ -2,7 +2,7 @@
 =============
 
 Új Egyenlítő Adroid alkalmazása.
-Az alkalmazás alkalmas az Új Egyenlítő újság cikkeinek olvasására, valamint az események megjelenítésére. Az első oldalon az újságok láthatók (borító, cím, kiadás dátuma, oldalszám). Ha a felhasználó kiválaszt egy újságot, akkor az alkalmazás megjeleníti az abban szereplő cikkeket (cím, szerző). Ha a felhasználó egy cikkre kattint, akkor az alkalmazás letölti a cikkhez tartozó PDF dokumentumot, majd azt alkalmazáson belül megjeleníti. 
+Az alkalmazás alkalmas az Új Egyenlítő újság cikkeinek olvasására, valamint az események megjelenítésére. Az első oldalon az újságok láthatók (borító, cím, kiadás dátuma, oldalszám). Ha a felhasználó kiválaszt egy újságot, akkor az alkalmazás megjeleníti az abban szereplő cikkeket (cím, szerző). Ha a felhasználó egy cikkre kattint, akkor az alkalmazás letölti a cikkhez tartozó PDF dokumentumot, majd azt alkalmazáson belül megjeleníti. Legyen lehetőség közelítésre/távolításra. 
 Az alkalmazásnak tudnia kell listázni az összes cikket, valamint a letöltött cikkeket is. A felhasználónak legyen lehetősége a letöltött cikkek törlésére. Ha egy cikk már le van töltve, akkor az ne töltse le mégegyszer, hanem nyissa meg.
 Amennyiben nincs internet kapcsolat, az alkalmazás jelezze a felhasználónak, és induláskor a lokális cikkeket jelenítse meg.
 
