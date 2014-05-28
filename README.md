@@ -8,6 +8,8 @@ Amennyiben nincs internet kapcsolat, az alkalmazás jelezze a felhasználónak, 
 
 Legyenek gombok, amik az újság weblapjára, Facebook oldalára, blog oldalára mutatnak, valamint azonnali e-mail küldési lehetőség. Újság olvasása közben legyen lehetőség az aktuális cikk megosztására Facebookon. A poszt tartalmazza az újság borítójának képét, valamint a link az újság PDF fokumentumára mutasson.
 
+Ha egy új újság kerül feltöltésre, amit a felhasználó még nem látott, azt az alkalmazás valamilyen notification-nel jelezze a felhasználónak, ha éppen nem fut. Ehhez segítség az újság "UploadDate" tulajdonsága. Ha ez újabb, mint a felhasználó utolsó belépése, akkor jelzünk. Legyen lehetőség a funkció kikapcsolására.
+
 Az Új Egyenlítő Mag című lapon szerepelnie kell az újság támogatóinak, valamit ezektől függetlenül a legújabb eseményeknek. Minden esemény egy címet, szöveget és egy linket tartalmaz. Opcionális mellé egy darab kép és/vagy videó megjelenítése.
 
 Az alkalmazás design-jának passzolnia kell az újsághoz. Legyen felhasználó barát, könnyen kezelhető, jól átlátható. Használja ki a platform egyedi tulajdonságait.
