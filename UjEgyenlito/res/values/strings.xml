@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">újEgyenlítő</string>
+    <string name="ez">ez</string>
+    <string name="button">Buttonnn</string>
+    <string name="ujsag_klikk0">Klikk0</string>
+    <string name="title_activity_cikk">Cikkek</string>
+    <string name="szerzo">Szerző</string>
+    <string name="cim">Cím</string>
+    <string name="title_activity_pdf">PdfActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_email">E-mail</string>
+
+</resources>

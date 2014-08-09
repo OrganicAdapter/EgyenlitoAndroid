@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margo">5dp</dimen>
+    <dimen name="szoveg">10dp</dimen>
+    <dimen name="betumeret">18dp</dimen>
+</resources>
